@@ -1,0 +1,6 @@
+E:\NP_ITMariela\dvustrainimasivi\dvustrainimasivi\obj\Debug\dvustrainimasivi.csprojResolveAssemblyReference.cache
+E:\NP_ITMariela\dvustrainimasivi\dvustrainimasivi\bin\Debug\dvustrainimasivi.exe.config
+E:\NP_ITMariela\dvustrainimasivi\dvustrainimasivi\bin\Debug\dvustrainimasivi.exe
+E:\NP_ITMariela\dvustrainimasivi\dvustrainimasivi\bin\Debug\dvustrainimasivi.pdb
+E:\NP_ITMariela\dvustrainimasivi\dvustrainimasivi\obj\Debug\dvustrainimasivi.exe
+E:\NP_ITMariela\dvustrainimasivi\dvustrainimasivi\obj\Debug\dvustrainimasivi.pdb
