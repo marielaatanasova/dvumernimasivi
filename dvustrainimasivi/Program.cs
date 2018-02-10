@@ -8,7 +8,7 @@ namespace mnogomerni_masivi
         {
             int n = int.Parse(Console.ReadLine()); // br redove
             int m = int.Parse(Console.ReadLine()); // br colums
-            double sum = 0;
+            
             
 
             int[,] array2dim = new int[n, m];
@@ -22,6 +22,7 @@ namespace mnogomerni_masivi
             }
             for (int i = 0; i < n; i++) // i obikalq red po red
             {
+                double sum = 0;
                 for (int j = 0; j < m; j++) // j obikalq po elementite na 1 red
                 {
                     Console.Write("{0,10}", array2dim[i, j]);
@@ -30,7 +31,7 @@ namespace mnogomerni_masivi
                 }
                
                 Console.WriteLine("{0,10}", sum / m);
-                sum = 0;
+                
             }
         }
     }
